@@ -1,0 +1,59 @@
+@font-face {font-family:"Minecraft Regular";
+  src:url("minecraft_font_by_pwnage_block-d37t6nb.eot?")format("eot"),
+  url("minecraft_font_by_pwnage_block-d37t6nb.woff") format("woff"),
+  url("minecraft_font_by_pwnage_block-d37t6nb.ttf") format("truetype"),
+  url("minecraft_font_by_pwnage_block-d37t6nb.svg#Minecraft") format("svg");
+  font-weight:normal;
+  font-style:normal;
+}
+
+
+body{
+  background-image: url('http://1.bp.blogspot.com/-LcYCcZ6U57Q/T6AuQSFOAqI/AAAAAAAABO8/86ZNnx6PbvY/s320/minecraft_stone.jpg');
+  font-family:Helvetica neue;
+}
+#header{
+  margin:0px;
+  background-image: url('http://i.imgur.com/3UUEaC3.png');
+  padding:3px;
+  font-size:45px;
+  background-size:50px;
+  
+  
+}
+.nav{
+  font-size:15px;
+  text-decoration:none;
+  margin:5px;
+  color:gray;
+  transition:0.5s;
+}
+.nav:hover{
+  color:black;
+
+}
+#footer{
+  color:white;
+  background-image: url('http://i.imgur.com/lm5sAX4.png');
+  margin:0px;
+  width:100%;
+  position:fixed;
+  text-align:center;
+  font-family:Helvetica neue;
+  padding-top:5px;
+  padding-bottom:5px;
+  margin-top:100%;
+  background-size:50px;
+
+}
+.box{
+  
+  margin:30px;
+  color:white;
+  padding:2.5%;
+  margin-top:40px;
+  background-image: url('http://i.imgur.com/OUXl7Tq.png');
+  background-size:50px;
+  
+  
+}
